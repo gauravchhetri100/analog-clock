@@ -1,3 +1,7 @@
+# ⏰ Analog Clock
+
+A simple and elegant **analog clock** made using **HTML**, **CSS**, and **JavaScript**. It updates in real-time using `setInterval()` and displays hours, minutes, and seconds with rotating hands.
+
 
 ## 🛠️ Technologies Used
 - HTML
